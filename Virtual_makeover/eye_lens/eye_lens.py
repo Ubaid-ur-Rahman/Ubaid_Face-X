@@ -1,5 +1,5 @@
 import cv2
-import dlib #dlib to detect and predict the faces
+import dlib 
 import numpy as np
 from collections import deque
 
